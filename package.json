@@ -1,6 +1,7 @@
 {
   "name": "myapp",
   "private": true,
+  "homepage": "https://github.com/HernanGmorales/WowComic/Build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
